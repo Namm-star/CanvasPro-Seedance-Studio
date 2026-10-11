@@ -1,0 +1,5359 @@
+{
+  "schemaVersion": 1,
+  "application": "canvaspro-seedance-studio",
+  "catalogVersion": "20261010-suanli-update-v1",
+  "publishedAt": "2026-10-10T06:54:49.440Z",
+  "pluginVersion": "0.3.3",
+  "pluginSHA256": "5a9ac1568ef4253c43bae1a2faa4d38199892c6409428d2cbcce7b4aed986045",
+  "creditsPerUsd": "6.7743",
+  "notice": "特价线路的排队时间与稳定性可能波动；请保留任务号，勿重复提交。",
+  "models": [
+    {
+      "model": "002系列/sd2.0(933满血不卡脸1080P)",
+      "family": "2.0",
+      "billingMode": "per_second",
+      "saleCny": "1.32",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "da84eea9c74d6af08f22dd2b563cf27a1ba84ba06ef9ce78558c9e1f08a48b2b",
+      "variants": [
+        {
+          "resolution": "1080p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "002系列/sd2.0(933满血不卡脸480P)",
+      "family": "2.0",
+      "billingMode": "per_second",
+      "saleCny": "0.576",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "5f340dbc54fe9f2b33969c438959288b6ae6f3ecea92c0f595db953e7a0651a0",
+      "variants": [
+        {
+          "resolution": "480p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "002系列/sd2.0(933满血不卡脸5/10/115秒720P)",
+      "family": "2.0",
+      "billingMode": "per_request",
+      "saleCny": "5.04",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "a2e7005950939e471fd4e10a364ee823a92cd0a67aba8cccd3d6e09e7e5c9495",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            5,
+            10,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "002系列/sd2.0(933满血不卡脸720P)",
+      "family": "2.0",
+      "billingMode": "per_second",
+      "saleCny": "0.9",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "fd872527648f54e43ccceb88de6518c26bfb28faec6728a4747ccd544e63a2c1",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "002系列/sd2.0(933原生不卡脸5-15秒720P)",
+      "family": "2.0",
+      "billingMode": "per_request",
+      "saleCny": "5.04",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "a2e7005950939e471fd4e10a364ee823a92cd0a67aba8cccd3d6e09e7e5c9495",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "002系列/sd2.0(933原生不卡脸720P)",
+      "family": "2.0",
+      "billingMode": "per_request",
+      "saleCny": "3.6",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "1fe522da5911d728f51aa228c7b0542b2574b3c0a512531d4a8b353a3abd357e",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "002系列/sd2.0(933原生满血720P)",
+      "family": "2.0",
+      "billingMode": "per_request",
+      "saleCny": "6.6",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "92385218cdbd3afc2830d40912bae3d33ddb9e182258e78b78b0271dc6ac7e6b",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "002系列/sd2.0(9图3音频12秒不卡脸720P)",
+      "family": "2.0",
+      "billingMode": "per_request",
+      "saleCny": "1.2",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "fc8bef670332222a02b4dcb7bbc600bdb36dfc96a6fb7d8b9ecdd20fdaf37f3d",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            12
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 0,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "audios+images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "002系列/sd2.0(9图3音频15秒不卡脸480P)",
+      "family": "2.0",
+      "billingMode": "per_request",
+      "saleCny": "1.2",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "fc8bef670332222a02b4dcb7bbc600bdb36dfc96a6fb7d8b9ecdd20fdaf37f3d",
+      "variants": [
+        {
+          "resolution": "480p",
+          "seconds": [
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 0,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "audios+images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "002系列/sd2.0(9图3音频不卡脸720P)",
+      "family": "2.0",
+      "billingMode": "per_second",
+      "saleCny": "0.276",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "0d88a874cb1d548402531a7ddea4755afb66a9a0614b34a5f451074eeaaceda8",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 0,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "audios+images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "002系列/sd2.5(10-10-10/4-30秒720P)",
+      "family": "2.5",
+      "billingMode": "per_request",
+      "saleCny": "2.76",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "c8c62d94ae4838a5426aab7571c1e78f3a1a58383f3548de7440ad87eca56a61",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 10,
+            "videos": 10,
+            "audios": 10
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "002系列/sd2.5(10图30秒30秒720P)",
+      "family": "2.5",
+      "billingMode": "per_request",
+      "saleCny": "2.22",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "75379fd190a1444ca698be6749fdb7dae2c6123be5a1f6e45f9e398bec60e038",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 10,
+            "videos": 0,
+            "audios": 0
+          },
+          "referenceCombinations": [
+            "none",
+            "images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "002系列/sd2.5(30-0-10原生过人脸480p)",
+      "family": "2.5",
+      "billingMode": "per_second",
+      "saleCny": "0.66",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "557db7321e867d3df4907950707252c90b918f0cc1fd4d11d9d78254ffa378a4",
+      "variants": [
+        {
+          "resolution": "480p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 0,
+            "audios": 10
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "audios+images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "002系列/sd2.5(30-0-10原生过人脸720P)",
+      "family": "2.5",
+      "billingMode": "per_second",
+      "saleCny": "1.02",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "62586f1027bda1a0a756d10f5f38d9872b98230cb597df43cc0168641a1365b0",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 0,
+            "audios": 10
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "audios+images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "002系列/sd2.5(30-10-10，满血高质量480p)",
+      "family": "2.5",
+      "billingMode": "per_second",
+      "saleCny": "0.756",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "6a4c4de16a94bad5388aa135d2830c81358d76e75b14a6b01cc49bb998694ca1",
+      "variants": [
+        {
+          "resolution": "480p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 10,
+            "audios": 10
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "002系列/sd2.5(30-10-10原生过人脸满血720P)",
+      "family": "2.5",
+      "billingMode": "per_second",
+      "saleCny": "1.2",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "f44dbb8d9c349b6a15ed4b34b2dfa20eafc5ea663270a26014c2cd4a32594cde",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 10,
+            "audios": 10
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "002系列/sd2.5(9图30秒720P)",
+      "family": "2.5",
+      "billingMode": "per_request",
+      "saleCny": "2.34",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "80f5685fab0220086812bb4dffe838c5efac9e624cc94c9b45d6026f4abf3d8f",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 0,
+            "audios": 0
+          },
+          "referenceCombinations": [
+            "none",
+            "images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "003系列/sd2.0(9-0-3/480P/720P)",
+      "family": "2.0",
+      "billingMode": "per_request",
+      "saleCny": "1.8",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "a487cf57a0e8d8d4ee00ecab6099296f433edb57f73640b417def450bb17c46d",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            12
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 0,
+            "audios": 0
+          },
+          "referenceCombinations": [
+            "none",
+            "images"
+          ]
+        },
+        {
+          "resolution": "480p",
+          "seconds": [
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 0,
+            "audios": 0
+          },
+          "referenceCombinations": [
+            "none",
+            "images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "003系列/sd2.0(9-3-3/15秒720P)",
+      "family": "2.0",
+      "billingMode": "per_request",
+      "saleCny": "6.6",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "92385218cdbd3afc2830d40912bae3d33ddb9e182258e78b78b0271dc6ac7e6b",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            5,
+            10,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "003系列/sd2.0(9-3-3/4-15秒原生不卡脸720P)",
+      "family": "2.0",
+      "billingMode": "per_request",
+      "saleCny": "3.6",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "1fe522da5911d728f51aa228c7b0542b2574b3c0a512531d4a8b353a3abd357e",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            5,
+            10,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "003系列/sd2.0(不卡脸903/720P12秒/480P15秒)",
+      "family": "2.0",
+      "billingMode": "per_request",
+      "saleCny": "1.5",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "163303cce3b0bcf8ac60a755858c19f190dfbcd0f4a226415aa4c7f45565d64a",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            12
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 0,
+            "audios": 0
+          },
+          "referenceCombinations": [
+            "none",
+            "images"
+          ]
+        },
+        {
+          "resolution": "480p",
+          "seconds": [
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 0,
+            "audios": 0
+          },
+          "referenceCombinations": [
+            "none",
+            "images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "003系列/sd2.0(官转不卡脸9-0-3/720P)",
+      "family": "2.0",
+      "billingMode": "per_request",
+      "saleCny": "4.2",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "e245d9d3326f53dc0ecc90489a6ffa596ef787db82ab67fec5a532a1f223b15c",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 0,
+            "audios": 0
+          },
+          "referenceCombinations": [
+            "none",
+            "images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "003系列/sd2.0(卡脸933/15秒/720P)",
+      "family": "2.0",
+      "billingMode": "per_request",
+      "saleCny": "2.22",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "75379fd190a1444ca698be6749fdb7dae2c6123be5a1f6e45f9e398bec60e038",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "003系列/sd2.0mini(9-0-3/不卡脸高并发480P)",
+      "family": "2.0",
+      "billingMode": "per_request",
+      "saleCny": "1.38",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "7d4eeaa36ab7c4b6ef6b82100b573f92f614cf9baafe3dad40a92bda843d83d0",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            12
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 0,
+            "audios": 0
+          },
+          "referenceCombinations": [
+            "none",
+            "images"
+          ]
+        },
+        {
+          "resolution": "480p",
+          "seconds": [
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 0,
+            "audios": 0
+          },
+          "referenceCombinations": [
+            "none",
+            "images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "003系列/sd2.5(30-0-0/30秒稳定720P卡脸)",
+      "family": "2.5",
+      "billingMode": "per_request",
+      "saleCny": "2.82",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "068f2e8c1e8e1ab892a800370eecc94bd7bca53a90808cd71131e70d14915901",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 0,
+            "audios": 0
+          },
+          "referenceCombinations": [
+            "none",
+            "images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "003系列/sd2.5(30-10-10/4-30秒720P)",
+      "family": "2.5",
+      "billingMode": "per_request",
+      "saleCny": "7.8",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "bf0f96b4aa6d2d0d6bf46d7d892e5016c78e75252db82c1c98d6a964884a1bda",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            10,
+            15,
+            20,
+            25,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 10,
+            "audios": 10
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "003系列/sd2.5(9-0-0/30秒720P)",
+      "family": "2.5",
+      "billingMode": "per_request",
+      "saleCny": "2.4",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "ae5629136457b820c171550c7402d242a7c591ffcf82b325bae6ae0b72abda74",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 0,
+            "audios": 0
+          },
+          "referenceCombinations": [
+            "none",
+            "images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "003系列/sd2.5(9-0-0/5-30秒/不卡脸超高并发720P)",
+      "family": "2.5",
+      "billingMode": "per_request",
+      "saleCny": "4.8",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "09cb088d3c40eff34a42a2ff2ff9ddde1b2476bc629bb49796e9b61ef5146cd4",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            10,
+            15,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 0,
+            "audios": 0
+          },
+          "referenceCombinations": [
+            "none",
+            "images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "003系列/sd2.5(9-0-0/卡脸720P)",
+      "family": "2.5",
+      "billingMode": "per_request",
+      "saleCny": "2.4",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "ae5629136457b820c171550c7402d242a7c591ffcf82b325bae6ae0b72abda74",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            10,
+            15,
+            20,
+            25,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 0,
+            "audios": 0
+          },
+          "referenceCombinations": [
+            "none",
+            "images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "003系列/sd2.5(不卡脸30-10-10/5-30秒/720P)",
+      "family": "2.5",
+      "billingMode": "per_request",
+      "saleCny": "5.4",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "782c87f4662dd29597de88eb3b189d5782b27e970184d68845383c1f34bb7cda",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 10,
+            "audios": 10
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "003系列/sd2.5(不卡脸5-30秒/30-10-10/720P)",
+      "family": "2.5",
+      "billingMode": "per_request",
+      "saleCny": "5.4",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "782c87f4662dd29597de88eb3b189d5782b27e970184d68845383c1f34bb7cda",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 10,
+            "audios": 10
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "003系列/sd2.5(官转不卡脸30-10-10/720P)",
+      "family": "2.5",
+      "billingMode": "per_second",
+      "saleCny": "0.78",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "d4f3a5260071e1f3c44600338807e18160af4d29f85e8fdff6ec29b6e146c3e9",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 10,
+            "audios": 10
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "003系列/sd2.5(卡脸9图30秒720P)",
+      "family": "2.5",
+      "billingMode": "per_request",
+      "saleCny": "1.8",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "a487cf57a0e8d8d4ee00ecab6099296f433edb57f73640b417def450bb17c46d",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 0,
+            "audios": 0
+          },
+          "referenceCombinations": [
+            "none",
+            "images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "004系列/sd2.0(933/4-15秒支持过人脸720P)",
+      "family": "2.0",
+      "billingMode": "per_request",
+      "saleCny": "1.2",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "fc8bef670332222a02b4dcb7bbc600bdb36dfc96a6fb7d8b9ecdd20fdaf37f3d",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ],
+          "referenceTotalMax": 15
+        }
+      ]
+    },
+    {
+      "model": "004系列/sd2.0(933/480p最多15秒/720p最多12秒)",
+      "family": "2.0",
+      "billingMode": "per_request",
+      "saleCny": "1.02",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "539e8373e48e86dee1455573ad2b7509a47c4347898302fc6865ce3a837f84ee",
+      "variants": [
+        {
+          "resolution": "480p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        },
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "004系列/sd2.0(933过人脸4-15秒)",
+      "family": "2.0",
+      "billingMode": "per_request",
+      "saleCny": "1.14",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "ef40207080043fd5e8f0ae64c3316e3a0b672edb9ed2bd1741662003f35e2ed1",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "004系列/sd2.0(官渠903原生过真人速度快720P)",
+      "family": "2.0",
+      "billingMode": "per_request",
+      "saleCny": "3.84",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "dcff5d2801c185a438f3607184636152e3e94284a931f41c75adf1f9687ac104",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 0,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "audios+images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "004系列/sd2.0(fast903固定15秒720P)",
+      "family": "2.0",
+      "billingMode": "per_request",
+      "saleCny": "1.836",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "3c31ebe7e0c7e5f53b7fd448dc5e7fc1a1cc9728c7c5487c25d704a316e30414",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 0,
+            "audios": 0
+          },
+          "referenceCombinations": [
+            "none",
+            "images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "004系列/sd2.5-Pro(全参4-30秒/480P)",
+      "family": "2.5",
+      "billingMode": "per_request",
+      "saleCny": "8.64",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "f47c00d22b966b783b1be7b5aa8c9eb1a1c5b6945d9bf5ffe101d07ee8d7e151",
+      "variants": [
+        {
+          "resolution": "480p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 10,
+            "audios": 10
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "004系列/sd2.5-Pro(全参4-30秒/720P)",
+      "family": "2.5",
+      "billingMode": "per_request",
+      "saleCny": "13.8",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "8c0b81f637d33e580e637bf347abeb2f52410455bb823d507d6520c798fe0306",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 10,
+            "audios": 10
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "004系列/sd2.5(30-0-10卡脸4-30秒/720P)",
+      "family": "2.5",
+      "billingMode": "per_request",
+      "saleCny": "2.22",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "75379fd190a1444ca698be6749fdb7dae2c6123be5a1f6e45f9e398bec60e038",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 0,
+            "audios": 10
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "audios+images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "004系列/sd2.5(30图4-30秒480P/720P)",
+      "family": "2.5",
+      "billingMode": "per_request",
+      "saleCny": "2.16",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "c38e20c14d2a5d455992ee0788510aeac27c21f6b3a7095f115979f06eea111c",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1",
+            "4:3",
+            "3:4",
+            "21:9"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 0,
+            "audios": 10
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "audios+images"
+          ],
+          "audioMimes": [
+            "audio/mpeg"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "004系列/sd2.5(全参30-10-10支持过人脸4-30秒/720P)",
+      "family": "2.5",
+      "billingMode": "per_second",
+      "saleCny": "0.54",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "78d75f5ea23156543fa8cc46f2133a4bcb0681fbdaedf51587110cfa6cdee448",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 10,
+            "audios": 10
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "004系列/sd2.5(全参过人脸720P)",
+      "family": "2.5",
+      "billingMode": "per_second",
+      "saleCny": "0.636",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "ac4daebf96e6567bff7f5c2b39134c3c39dc987903bbce7e6ec6ee22a8e895f5",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 10,
+            "audios": 10
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "官方直连sd2.0(满血全参不排队1080P)",
+      "family": "2.0",
+      "billingMode": "per_second",
+      "saleCny": "1.98",
+      "videoMultiplier": 1.75,
+      "priceExpressionSHA256": "31834ac18b22ebe3d22288d50fcb04df2aee67dcaa71122c3a8f67e1e2252da3",
+      "variants": [
+        {
+          "resolution": "1080p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "官方直连sd2.0(满血全参不排队480P)",
+      "family": "2.0",
+      "billingMode": "per_second",
+      "saleCny": "0.552",
+      "videoMultiplier": 1.75,
+      "priceExpressionSHA256": "00b1bd0e8d60f7be66be3b56422063d67b572a1999c9d1db15adb99f48349c70",
+      "variants": [
+        {
+          "resolution": "480p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "官方直连sd2.0(满血全参不排队4K)",
+      "family": "2.0",
+      "billingMode": "per_second",
+      "saleCny": "6.54",
+      "videoMultiplier": 1.75,
+      "priceExpressionSHA256": "26e4e7c2e750a84298c75ad6ca204dc008ae600430f9e6a92e2fa8c160041fb4",
+      "variants": [
+        {
+          "resolution": "4k",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "官方直连sd2.0(满血全参不排队720P)",
+      "family": "2.0",
+      "billingMode": "per_second",
+      "saleCny": "0.816",
+      "videoMultiplier": 1.75,
+      "priceExpressionSHA256": "95bd2092ad4570be4a9d5683255ed7b600b8740d6628ab0d4ffe4e481caec6f2",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "官方直连sd2.0(fast全参不排队480P)",
+      "family": "2.0",
+      "billingMode": "per_second",
+      "saleCny": "0.384",
+      "videoMultiplier": 1.75,
+      "priceExpressionSHA256": "87f139ddae77683f5d51f81fabe976b51dfa02bdc220042b467fae165c07d431",
+      "variants": [
+        {
+          "resolution": "480p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "官方直连sd2.0(fast全参不排队720P)",
+      "family": "2.0",
+      "billingMode": "per_second",
+      "saleCny": "0.66",
+      "videoMultiplier": 1.75,
+      "priceExpressionSHA256": "7ae0826eada02256816babfc5012e03817bf2d02a54e9a447f5f861c18e3f311",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "官方直连sd2.0(mini全参不排队480P)",
+      "family": "2.0",
+      "billingMode": "per_second",
+      "saleCny": "0.1116",
+      "videoMultiplier": 1.75,
+      "priceExpressionSHA256": "7301e69b4e18ec67ea115348320b1d34001715b34c87ac882fda2a86d6633f57",
+      "variants": [
+        {
+          "resolution": "480p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "官方直连sd2.0(mini全参不排队720P)",
+      "family": "2.0",
+      "billingMode": "per_second",
+      "saleCny": "0.264",
+      "videoMultiplier": 1.75,
+      "priceExpressionSHA256": "711892aa58616b237cc8ca583c8a45e9ad27973b92537d78e851fd8941c69845",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "官方直连sd2.5(满血全参不排队1080P)",
+      "family": "2.5",
+      "billingMode": "per_second",
+      "saleCny": "2.88",
+      "videoMultiplier": 1.75,
+      "priceExpressionSHA256": "d0f1437b6353b899943b44fc8a3eefb1c339ca5292b9f16ac1421f40bd17c142",
+      "variants": [
+        {
+          "resolution": "1080p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 10,
+            "audios": 10
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "官方直连sd2.5(满血全参不排队480P)",
+      "family": "2.5",
+      "billingMode": "per_second",
+      "saleCny": "0.984",
+      "videoMultiplier": 1.75,
+      "priceExpressionSHA256": "0e4c187d1df825ea29b158bcce70e34be27ad880fd4e04ea04b885444205dcd4",
+      "variants": [
+        {
+          "resolution": "480p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 10,
+            "audios": 10
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "官方直连sd2.5(满血全参不排队720P)",
+      "family": "2.5",
+      "billingMode": "per_second",
+      "saleCny": "1.32",
+      "videoMultiplier": 1.75,
+      "priceExpressionSHA256": "67765c18efd988ee6ef4636737879d22b63a5e604e23850f8954bfed16ddf4a6",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 10,
+            "audios": 10
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "官转稳定-sd2-1080p(933满血卡脸)",
+      "family": "2.0",
+      "billingMode": "per_second",
+      "saleCny": "1.56",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "06f4d680191efa35cbb2b3659ee71ad903551ee41bcb229c63e6e1498774467c",
+      "variants": [
+        {
+          "resolution": "1080p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "官转稳定-sd2-480p(933满血卡脸)",
+      "family": "2.0",
+      "billingMode": "per_second",
+      "saleCny": "0.396",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "77a0c95ff18318ab40a8b524d8fafdf4c191bf019eb0e23e34a022c7f0a38103",
+      "variants": [
+        {
+          "resolution": "480p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "官转稳定-sd2-4k(933满血卡脸4K)",
+      "family": "2.0",
+      "billingMode": "per_second",
+      "saleCny": "3",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "251a72dce42128d24dc6fd6b78a9fd378edad989e59c2a87c584e44a987ebfb6",
+      "variants": [
+        {
+          "resolution": "4k",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "官转稳定-sd2-720p(933满血卡脸)",
+      "family": "2.0",
+      "billingMode": "per_second",
+      "saleCny": "0.72",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "3d2b2d5d54ada58d3de5ccdea932b460a350d088a311aeaa5bacd89b7b916fc6",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "官转稳定-sd2.5-1080p(30-10-10/4-30秒卡真人无限并发速度极快)",
+      "family": "2.5",
+      "billingMode": "per_second",
+      "saleCny": "0.756",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "6a4c4de16a94bad5388aa135d2830c81358d76e75b14a6b01cc49bb998694ca1",
+      "variants": [
+        {
+          "resolution": "1080p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 10,
+            "audios": 10
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "官转稳定-sd2.5-480p(30-10-10/4-30秒卡真人无限并发速度极快)",
+      "family": "2.5",
+      "billingMode": "per_second",
+      "saleCny": "0.66",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "557db7321e867d3df4907950707252c90b918f0cc1fd4d11d9d78254ffa378a4",
+      "variants": [
+        {
+          "resolution": "480p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 10,
+            "audios": 10
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "官转稳定-sd2.5-720p(30-10-10/4-30秒卡真人无限并发速度极快)",
+      "family": "2.5",
+      "billingMode": "per_second",
+      "saleCny": "1.32",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "da84eea9c74d6af08f22dd2b563cf27a1ba84ba06ef9ce78558c9e1f08a48b2b",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 10,
+            "audios": 10
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "官转稳定sd2.0(933原生过真人480P)",
+      "family": "2.0",
+      "billingMode": "per_second",
+      "saleCny": "0.504",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "9a40efc426bff6bc233f143a1aa7a86b90a375153a0b384ba6e1fbfd8905db24",
+      "variants": [
+        {
+          "resolution": "480p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "官转稳定sd2.0(933原生过真人720P)",
+      "family": "2.0",
+      "billingMode": "per_second",
+      "saleCny": "0.9",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "fd872527648f54e43ccceb88de6518c26bfb28faec6728a4747ccd544e63a2c1",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "全能sd2.0(不卡脸mini933-12s)",
+      "family": "2.0",
+      "billingMode": "per_request",
+      "saleCny": "1.02",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "539e8373e48e86dee1455573ad2b7509a47c4347898302fc6865ce3a837f84ee",
+      "variants": [
+        {
+          "resolution": "480p",
+          "seconds": [
+            12
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "全能sd2.0(官转专线满血原生过脸-933-720p)",
+      "family": "2.0",
+      "billingMode": "per_request",
+      "saleCny": "6.6",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "92385218cdbd3afc2830d40912bae3d33ddb9e182258e78b78b0271dc6ac7e6b",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "全能sd2.0(官转专线原生过脸fast-933-720p)",
+      "family": "2.0",
+      "billingMode": "per_request",
+      "saleCny": "4.8",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "09cb088d3c40eff34a42a2ff2ff9ddde1b2476bc629bb49796e9b61ef5146cd4",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "全能sd2.0(满血内置过脸-900-720p)",
+      "family": "2.0",
+      "billingMode": "per_request",
+      "saleCny": "3.9",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "012ba27d9f6fc06e5ed08897fecb79346edcce5cec84d1a27b9eac58bbd1ce05",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 0,
+            "audios": 0
+          },
+          "referenceCombinations": [
+            "none",
+            "images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "全能sd2.0(满血原生过脸-933-480p)",
+      "family": "2.0",
+      "billingMode": "per_request",
+      "saleCny": "3.84",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "dcff5d2801c185a438f3607184636152e3e94284a931f41c75adf1f9687ac104",
+      "variants": [
+        {
+          "resolution": "480p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "全能sd2.0(满血原生过脸-933-720p)",
+      "family": "2.0",
+      "billingMode": "per_request",
+      "saleCny": "6.36",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "514b6425ec2f3cbe86ad78d8e4052cb4b9f25c6ad6fda0c876921ffa6d6ac3cd",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "全能sd2.0(原生过脸mini-930-480p)",
+      "family": "2.0",
+      "billingMode": "per_request",
+      "saleCny": "1.92",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "f0791521b22a06570e21ec9dc5940a61e4ba358cfab6841376b12d970f68b891",
+      "variants": [
+        {
+          "resolution": "480p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 0
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "全能sd2.0(原生过脸mini2-930-480p)",
+      "family": "2.0",
+      "billingMode": "per_request",
+      "saleCny": "1.08",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "d2892fd8a5be22609187c42b648296ec5062397c4bb9168347510cdeddc2c9b8",
+      "variants": [
+        {
+          "resolution": "480p",
+          "seconds": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 0,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "audios+images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "全能sd2.0(mini原生过脸933/720p)",
+      "family": "2.0",
+      "billingMode": "per_request",
+      "saleCny": "2.4",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "ae5629136457b820c171550c7402d242a7c591ffcf82b325bae6ae0b72abda74",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "热门稳定SD2.5-720p(30-10-10不卡脸/4-30秒)",
+      "family": "2.5",
+      "billingMode": "per_request",
+      "saleCny": "7.2",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "060cba1696df38eb7a21627f6a1aa57c0122f95d0ee61225873d9cfe67d3b5dc",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 10,
+            "audios": 10
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "特价/sd-2.5",
+      "family": "2.5",
+      "billingMode": "per_request",
+      "saleCny": "2.34",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "80f5685fab0220086812bb4dffe838c5efac9e624cc94c9b45d6026f4abf3d8f",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 10,
+            "videos": 0,
+            "audios": 0
+          },
+          "referenceCombinations": [
+            "none",
+            "images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "特价稳定sd2.5-720p-ch1(9图30秒小几率卡脸内置彩绘过脸)",
+      "family": "2.5",
+      "billingMode": "per_request",
+      "saleCny": "3.42",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "f5e20727142229e6dcf60664f8fc470f6273436e15265329fe70052b1b0619d5",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 0,
+            "videos": 0,
+            "audios": 0
+          },
+          "referenceCombinations": [
+            "none"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "特价稳定sdquan-2-miao(930不排队不卡脸满血)",
+      "family": "other",
+      "billingMode": "per_second",
+      "saleCny": "0.504",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "9a40efc426bff6bc233f143a1aa7a86b90a375153a0b384ba6e1fbfd8905db24",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 0,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "audios+images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "推荐稳定sd2.0vip720p(933不卡脸不排队满血)",
+      "family": "2.0",
+      "billingMode": "per_second",
+      "saleCny": "0.504",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "9a40efc426bff6bc233f143a1aa7a86b90a375153a0b384ba6e1fbfd8905db24",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "优惠sd2.5(30图卡真人30秒/720p)",
+      "family": "2.5",
+      "billingMode": "per_request",
+      "saleCny": "2.64",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "79aa7640e28f9b08d72f7004613df559f6e4a17bedf6fcc807c4c3d73d05aae3",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 0,
+            "audios": 0
+          },
+          "referenceCombinations": [
+            "none",
+            "images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "优质sd2.0vip4k(9-3-3不排队速度极快不卡脸4K满血)",
+      "family": "2.0",
+      "billingMode": "per_second",
+      "saleCny": "5.04",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "43ad5581a1a23af3702c185c1f471a9adda273fd81673c3319eee9652a73a529",
+      "variants": [
+        {
+          "resolution": "4k",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "专享sd2.0(fast933/4-15秒/720p)",
+      "family": "2.0",
+      "billingMode": "per_request",
+      "saleCny": "1.2",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "fc8bef670332222a02b4dcb7bbc600bdb36dfc96a6fb7d8b9ecdd20fdaf37f3d",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1",
+            "4:3",
+            "3:4",
+            "21:9"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ],
+          "audioMimes": [
+            "audio/mpeg"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "专享sd2.5(30图10音/4-30秒/720p)",
+      "family": "2.5",
+      "billingMode": "per_request",
+      "saleCny": "1.86",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "6c613d4274588070804ec503566f0935aaa326cad44305a0f34246d2f84fe990",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1",
+            "4:3",
+            "3:4",
+            "21:9"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 0,
+            "audios": 10
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "audios+images"
+          ],
+          "audioMimes": [
+            "audio/mpeg"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "sd2-福利(8点-20点可用/4-3-1不卡脸不排队)",
+      "family": "2.0",
+      "billingMode": "per_second",
+      "saleCny": "0.54",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "78d75f5ea23156543fa8cc46f2133a4bcb0681fbdaedf51587110cfa6cdee448",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 4,
+            "videos": 1,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "sd2-vip720p(900不排队云端彩绘过脸)",
+      "family": "2.0",
+      "billingMode": "per_request",
+      "saleCny": "4.62",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "803df45b7d631862fdf2ba1516364931c4d43dded47359befae00d87ae39ef9a",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 0,
+            "audios": 0
+          },
+          "referenceCombinations": [
+            "none",
+            "images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "SD2.0-720P(9图不卡脸不排队云端过彩铅)",
+      "family": "2.0",
+      "billingMode": "per_request",
+      "saleCny": "2.64",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "79aa7640e28f9b08d72f7004613df559f6e4a17bedf6fcc807c4c3d73d05aae3",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 0,
+            "audios": 0
+          },
+          "referenceCombinations": [
+            "none",
+            "images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "SD2.5-1080p(30-10-10不卡脸/4-30秒)",
+      "family": "2.5",
+      "billingMode": "per_second",
+      "saleCny": "1.836",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "846f1d20e7f87386be87861368457da9d769b193fac7287bcd6864462b63415f",
+      "variants": [
+        {
+          "resolution": "1080p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 10,
+            "audios": 10
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "SD2.5-480p(30-10-10不卡脸4-30秒)",
+      "family": "2.5",
+      "billingMode": "per_second",
+      "saleCny": "0.756",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "6a4c4de16a94bad5388aa135d2830c81358d76e75b14a6b01cc49bb998694ca1",
+      "variants": [
+        {
+          "resolution": "480p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 10,
+            "audios": 10
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "sd2.5-720p-ch3(30-10-10不卡脸/4-30秒无限并发)",
+      "family": "2.5",
+      "billingMode": "per_second",
+      "saleCny": "1.02",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "62586f1027bda1a0a756d10f5f38d9872b98230cb597df43cc0168641a1365b0",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 10,
+            "audios": 10
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "sd2.5-cf-720p(30图10音不卡脸4-30秒超分模型)",
+      "family": "2.5",
+      "billingMode": "per_second",
+      "saleCny": "0.66",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "557db7321e867d3df4907950707252c90b918f0cc1fd4d11d9d78254ffa378a4",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 0,
+            "audios": 10
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "audios+images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "官转sd2.0(mini903不卡脸不排队720P)",
+      "family": "2.0",
+      "billingMode": "per_second",
+      "saleCny": "0.516",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "2dcda030e7f4b7831f4dfcd16af8326de6aaca4a5a614c1068e9ef33a41aee49",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 0,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "audios+images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "006系列/sd2.0mini(933过人脸720P)",
+      "family": "2.0",
+      "billingMode": "per_request",
+      "saleCny": "1.8",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "a487cf57a0e8d8d4ee00ecab6099296f433edb57f73640b417def450bb17c46d",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            5,
+            10,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "官转sd2.0(903不卡脸不排队720P)",
+      "family": "2.0",
+      "billingMode": "per_second",
+      "saleCny": "0.72",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "3d2b2d5d54ada58d3de5ccdea932b460a350d088a311aeaa5bacd89b7b916fc6",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 0,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "audios+images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "高质量稳定sd2.5/(原生过人脸30图10视频10音/720P)",
+      "family": "2.5",
+      "billingMode": "per_request",
+      "saleCny": "9.36",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "afada24af13fdf8780e9e1e6f80362d14344ff8c9fde92bcd156805e6e97546e",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 10,
+            "audios": 10
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "高质量sd2.5/(全参30-10-10原生过真人速度快720P)",
+      "family": "2.5",
+      "billingMode": "per_second",
+      "saleCny": "0.66",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "557db7321e867d3df4907950707252c90b918f0cc1fd4d11d9d78254ffa378a4",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 10,
+            "audios": 10
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "官转sd2.5(30图10音不卡脸720P)",
+      "family": "2.5",
+      "billingMode": "per_second",
+      "saleCny": "1.02",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "62586f1027bda1a0a756d10f5f38d9872b98230cb597df43cc0168641a1365b0",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 10,
+            "audios": 10
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "006系列/sd2.0(满血933过人脸720P)",
+      "family": "2.0",
+      "billingMode": "per_request",
+      "saleCny": "1.32",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "8eff3ad2aff54ecbc14cdbc4a7ec580fa78e4de4b00888dce2b12243c2bc04eb",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            5,
+            10,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "高质量稳定系列sd2.5/(原生过真人30-10-10/720P)",
+      "family": "2.5",
+      "billingMode": "per_second",
+      "saleCny": "0.66",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "557db7321e867d3df4907950707252c90b918f0cc1fd4d11d9d78254ffa378a4",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 10,
+            "audios": 10
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "高质量sd2.5/(30图10音原生过真人速度快720P按条)",
+      "family": "2.5",
+      "billingMode": "per_request",
+      "saleCny": "10.56",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "6b4e6e4a199cfea797dd73aa56f821e4dcedb38c8679fe42d94d28aad80b188e",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 0,
+            "audios": 10
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "audios+images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "高质量sd2.5/(30图10音原生过真人速度快720P)",
+      "family": "2.5",
+      "billingMode": "per_second",
+      "saleCny": "0.432",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "cb17a41a94162895fc2a2e46892807ba902af32c501eb4ab79e6e97f90afb457",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 0,
+            "audios": 10
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "audios+images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "高质量sd2.0/(全参933原生过真人速度快720P)",
+      "family": "2.0",
+      "billingMode": "per_request",
+      "saleCny": "4.62",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "803df45b7d631862fdf2ba1516364931c4d43dded47359befae00d87ae39ef9a",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "官转sd2.5(30图10音不卡脸1080P)",
+      "family": "2.5",
+      "billingMode": "per_second",
+      "saleCny": "1.14",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "15fa06a3089893fa49cf7bd367c6659244223adb464e79c5fcecd68db76086fa",
+      "variants": [
+        {
+          "resolution": "1080p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 10,
+            "audios": 10
+          },
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "满血sd2.5(30-10-10原生过人脸30秒/720P)",
+      "family": "2.5",
+      "billingMode": "per_request",
+      "saleCny": "6.72",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "6cc1c57ae127bc368af5e236e163fedbb58bc82941a8dc4961b634139ed97871",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 10,
+            "audios": 10
+          },
+          "generateAudio": false,
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "007系列/sd2.5(满血30图10音/720P)",
+      "family": "2.5",
+      "billingMode": "per_second",
+      "saleCny": "0.564",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "2dafdcf3008e4e47f3d483659ce5460e2f26fd8ead2a1bc5c70065391aff0518",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 0,
+            "audios": 10
+          },
+          "generateAudio": false,
+          "referenceCombinations": [
+            "none",
+            "images",
+            "audios+images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "007系列/sd2.0(原生过真人933/5-15秒/720P按秒)",
+      "family": "2.0",
+      "billingMode": "per_second",
+      "saleCny": "0.3",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "f89846d07c00cd4598de55738086220cb5b4c2564755006c8e1b11f14ec46353",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "generateAudio": false,
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "007系列/sd2.0(原生过真人933/5-15秒/720P)",
+      "family": "2.0",
+      "billingMode": "per_request",
+      "saleCny": "3.84",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "dcff5d2801c185a438f3607184636152e3e94284a931f41c75adf1f9687ac104",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 3,
+            "audios": 3
+          },
+          "generateAudio": false,
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "007系列/sd2.0(fast9图3音/5-15秒/720P)",
+      "family": "2.0",
+      "billingMode": "per_request",
+      "saleCny": "1.56",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "ff0d7221cf710ea4e0187232214ec85ec1a3adcbff80af2eed7e9f6fb42c1e03",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 0,
+            "audios": 3
+          },
+          "generateAudio": false,
+          "referenceCombinations": [
+            "none",
+            "images",
+            "audios+images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "007系列/sd2.0(mini9图3音4-10秒/480P)",
+      "family": "2.0",
+      "billingMode": "per_request",
+      "saleCny": "0.96",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "63f6a970819247bbb26469a662b840588a804c5ae2e0cd211db116de8345787f",
+      "variants": [
+        {
+          "resolution": "480p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 0,
+            "audios": 3
+          },
+          "generateAudio": false,
+          "referenceCombinations": [
+            "none",
+            "images",
+            "audios+images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "007系列/sd2.5(原生过真人/30-10-10/4-15秒/480P)",
+      "family": "2.5",
+      "billingMode": "per_request",
+      "saleCny": "9",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "62f0a57db343ef85ef9d9c5bae236df8ae95cc0d7aba5ef5c470f4622aec9375",
+      "variants": [
+        {
+          "resolution": "480p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 10,
+            "audios": 10
+          },
+          "generateAudio": false,
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "007系列/sd2.5(内置过人脸/30-10-10/4-15秒/480P)",
+      "family": "2.5",
+      "billingMode": "per_request",
+      "saleCny": "9",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "62f0a57db343ef85ef9d9c5bae236df8ae95cc0d7aba5ef5c470f4622aec9375",
+      "variants": [
+        {
+          "resolution": "480p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 10,
+            "audios": 10
+          },
+          "generateAudio": false,
+          "referenceCombinations": [
+            "none",
+            "images",
+            "videos",
+            "images+videos",
+            "audios+images",
+            "audios+images+videos"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "007系列/sd2.5(30图10音/4-30秒/720P)",
+      "family": "2.5",
+      "billingMode": "per_request",
+      "saleCny": "2.4",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "ae5629136457b820c171550c7402d242a7c591ffcf82b325bae6ae0b72abda74",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 0,
+            "audios": 10
+          },
+          "generateAudio": false,
+          "referenceCombinations": [
+            "none",
+            "images",
+            "audios+images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "全能sd2.5(满血内置过脸-30图-720p)",
+      "family": "2.5",
+      "billingMode": "per_request",
+      "saleCny": "4.14",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "f6306d3a528e513c4b543685b8d497bae2e7fae4e1a855c0d44e26379656bc35",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 0,
+            "audios": 0
+          },
+          "generateAudio": false,
+          "referenceCombinations": [
+            "none",
+            "images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "全能sd2.5(满血内置过脸30图超分1080P)",
+      "family": "2.5",
+      "billingMode": "per_request",
+      "saleCny": "4.2",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "e245d9d3326f53dc0ecc90489a6ffa596ef787db82ab67fec5a532a1f223b15c",
+      "variants": [
+        {
+          "resolution": "1080p",
+          "seconds": [
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 0,
+            "audios": 0
+          },
+          "generateAudio": false,
+          "referenceCombinations": [
+            "none",
+            "images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "全能sd2.5(原生过脸900/720P)",
+      "family": "2.5",
+      "billingMode": "per_request",
+      "saleCny": "11.4",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "390418e67c92ab1278f124dd0b756798c76f86cb5863051d461c3cc97c4689af",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 0,
+            "audios": 0
+          },
+          "generateAudio": false,
+          "referenceCombinations": [
+            "none",
+            "images"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "003系列/sd2.5(卡脸30图10音/10-30秒/720P)",
+      "family": "2.5",
+      "billingMode": "per_request",
+      "saleCny": "3.84",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "dcff5d2801c185a438f3607184636152e3e94284a931f41c75adf1f9687ac104",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 0,
+            "audios": 10
+          },
+          "generateAudio": false,
+          "referenceCombinations": [
+            "none",
+            "images",
+            "audios+images"
+          ]
+        }
+      ]
+    }
+  ]
+}

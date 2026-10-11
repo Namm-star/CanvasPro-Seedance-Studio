@@ -1,0 +1,690 @@
+{
+  "source": "https://api.canvasproai.com/api/pricing",
+  "catalogVersion": "20261010-suanli-update-v1",
+  "pricing": [
+    {
+      "model_name": "002系列/sd2.0(933满血不卡脸1080P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.194854080865)"
+      }
+    },
+    {
+      "model_name": "002系列/sd2.0(933满血不卡脸480P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.085027235287)"
+      }
+    },
+    {
+      "model_name": "002系列/sd2.0(933满血不卡脸5/10/115秒720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.743988308756)"
+      }
+    },
+    {
+      "model_name": "002系列/sd2.0(933满血不卡脸720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.132855055135)"
+      }
+    },
+    {
+      "model_name": "002系列/sd2.0(933原生不卡脸5-15秒720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.743988308756)"
+      }
+    },
+    {
+      "model_name": "002系列/sd2.0(933原生不卡脸720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.531420220540)"
+      }
+    },
+    {
+      "model_name": "002系列/sd2.0(933原生满血720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.974270404323)"
+      }
+    },
+    {
+      "model_name": "002系列/sd2.0(9图3音频12秒不卡脸720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.177140073514)"
+      }
+    },
+    {
+      "model_name": "002系列/sd2.0(9图3音频15秒不卡脸480P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.177140073514)"
+      }
+    },
+    {
+      "model_name": "002系列/sd2.0(9图3音频不卡脸720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.040742216909)"
+      }
+    },
+    {
+      "model_name": "002系列/sd2.5(10-10-10/4-30秒720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.407422169081)"
+      }
+    },
+    {
+      "model_name": "002系列/sd2.5(10图30秒30秒720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.327709136000)"
+      }
+    },
+    {
+      "model_name": "002系列/sd2.5(30-0-10原生过人脸480p)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.097427040433)"
+      }
+    },
+    {
+      "model_name": "002系列/sd2.5(30-0-10原生过人脸720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.150569062487)"
+      }
+    },
+    {
+      "model_name": "002系列/sd2.5(30-10-10，满血高质量480p)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.111598246314)"
+      }
+    },
+    {
+      "model_name": "002系列/sd2.5(30-10-10原生过人脸满血720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.177140073514)"
+      }
+    },
+    {
+      "model_name": "002系列/sd2.5(9图30秒720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.345423143351)"
+      }
+    },
+    {
+      "model_name": "003系列/sd2.0(9-0-3/480P/720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.265710110270)"
+      }
+    },
+    {
+      "model_name": "003系列/sd2.0(9-3-3/15秒720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.974270404323)"
+      }
+    },
+    {
+      "model_name": "003系列/sd2.0(9-3-3/4-15秒原生不卡脸720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.531420220540)"
+      }
+    },
+    {
+      "model_name": "003系列/sd2.0(不卡脸903/720P12秒/480P15秒)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.221425091892)"
+      }
+    },
+    {
+      "model_name": "003系列/sd2.0(官转不卡脸9-0-3/720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.619990257296)"
+      }
+    },
+    {
+      "model_name": "003系列/sd2.0(卡脸933/15秒/720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.327709136000)"
+      }
+    },
+    {
+      "model_name": "003系列/sd2.0mini(9-0-3/不卡脸高并发480P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.203711084541)"
+      }
+    },
+    {
+      "model_name": "003系列/sd2.5(30-0-0/30秒稳定720P卡脸)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.416279172756)"
+      }
+    },
+    {
+      "model_name": "003系列/sd2.5(30-10-10/4-30秒720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 1.151410477836)"
+      }
+    },
+    {
+      "model_name": "003系列/sd2.5(9-0-0/30秒720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.354280147027)"
+      }
+    },
+    {
+      "model_name": "003系列/sd2.5(9-0-0/5-30秒/不卡脸超高并发720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.708560294053)"
+      }
+    },
+    {
+      "model_name": "003系列/sd2.5(9-0-0/卡脸720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.354280147027)"
+      }
+    },
+    {
+      "model_name": "003系列/sd2.5(不卡脸30-10-10/5-30秒/720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.797130330810)"
+      }
+    },
+    {
+      "model_name": "003系列/sd2.5(不卡脸5-30秒/30-10-10/720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.797130330810)"
+      }
+    },
+    {
+      "model_name": "003系列/sd2.5(官转不卡脸30-10-10/720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.115141047784)"
+      }
+    },
+    {
+      "model_name": "003系列/sd2.5(卡脸9图30秒720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.265710110270)"
+      }
+    },
+    {
+      "model_name": "004系列/sd2.0(933/4-15秒支持过人脸720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.177140073514)"
+      }
+    },
+    {
+      "model_name": "004系列/sd2.0(933/480p最多15秒/720p最多12秒)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.150569062487)"
+      }
+    },
+    {
+      "model_name": "004系列/sd2.0(933过人脸4-15秒)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.168283069838)"
+      }
+    },
+    {
+      "model_name": "004系列/sd2.0(官渠903原生过真人速度快720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.566848235243)"
+      }
+    },
+    {
+      "model_name": "004系列/sd2.0(fast903固定15秒720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.271024312476)"
+      }
+    },
+    {
+      "model_name": "004系列/sd2.5-Pro(全参4-30秒/480P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 1.275408529295)"
+      }
+    },
+    {
+      "model_name": "004系列/sd2.5-Pro(全参4-30秒/720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 2.037110845402)"
+      }
+    },
+    {
+      "model_name": "004系列/sd2.5(30-0-10卡脸4-30秒/720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.327709136000)"
+      }
+    },
+    {
+      "model_name": "004系列/sd2.5(30图4-30秒480P/720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.318852132324)"
+      }
+    },
+    {
+      "model_name": "004系列/sd2.5(全参30-10-10支持过人脸4-30秒/720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.079713033081)"
+      }
+    },
+    {
+      "model_name": "004系列/sd2.5(全参过人脸720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.093884238962)"
+      }
+    },
+    {
+      "model_name": "官方直连sd2.0(满血全参不排队1080P)",
+      "values": {
+        "billing_setting.billing_expr": "u(\"video_reference\") == \"yes\" ? tier(\"video\", u(\"seconds\") * 0.511491962270) : tier(\"no-video\", u(\"seconds\") * 0.292281121297)"
+      }
+    },
+    {
+      "model_name": "官方直连sd2.0(满血全参不排队480P)",
+      "values": {
+        "billing_setting.billing_expr": "u(\"video_reference\") == \"yes\" ? tier(\"video\", u(\"seconds\") * 0.142597759179) : tier(\"no-video\", u(\"seconds\") * 0.081484433817)"
+      }
+    },
+    {
+      "model_name": "官方直连sd2.0(满血全参不排队4K)",
+      "values": {
+        "billing_setting.billing_expr": "u(\"video_reference\") == \"yes\" ? tier(\"video\", u(\"seconds\") * 1.689473451132) : tier(\"no-video\", u(\"seconds\") * 0.965413400647)"
+      }
+    },
+    {
+      "model_name": "官方直连sd2.0(满血全参不排队720P)",
+      "values": {
+        "billing_setting.billing_expr": "u(\"video_reference\") == \"yes\" ? tier(\"video\", u(\"seconds\") * 0.210796687481) : tier(\"no-video\", u(\"seconds\") * 0.120455249989)"
+      }
+    },
+    {
+      "model_name": "官方直连sd2.0(fast全参不排队480P)",
+      "values": {
+        "billing_setting.billing_expr": "u(\"video_reference\") == \"yes\" ? tier(\"video\", u(\"seconds\") * 0.099198441168) : tier(\"no-video\", u(\"seconds\") * 0.056684823525)"
+      }
+    },
+    {
+      "model_name": "官方直连sd2.0(fast全参不排队720P)",
+      "values": {
+        "billing_setting.billing_expr": "u(\"video_reference\") == \"yes\" ? tier(\"video\", u(\"seconds\") * 0.170497320757) : tier(\"no-video\", u(\"seconds\") * 0.097427040433)"
+      }
+    },
+    {
+      "model_name": "官方直连sd2.0(mini全参不排队480P)",
+      "values": {
+        "billing_setting.billing_expr": "u(\"video_reference\") == \"yes\" ? tier(\"video\", u(\"seconds\") * 0.028829546965) : tier(\"no-video\", u(\"seconds\") * 0.016474026837)"
+      }
+    },
+    {
+      "model_name": "官方直连sd2.0(mini全参不排队720P)",
+      "values": {
+        "billing_setting.billing_expr": "u(\"video_reference\") == \"yes\" ? tier(\"video\", u(\"seconds\") * 0.068198928303) : tier(\"no-video\", u(\"seconds\") * 0.038970816173)"
+      }
+    },
+    {
+      "model_name": "官方直连sd2.5(满血全参不排队1080P)",
+      "values": {
+        "billing_setting.billing_expr": "u(\"video_reference\") == \"yes\" ? tier(\"video\", u(\"seconds\") * 0.743988308756) : tier(\"no-video\", u(\"seconds\") * 0.425136176432)"
+      }
+    },
+    {
+      "model_name": "官方直连sd2.5(满血全参不排队480P)",
+      "values": {
+        "billing_setting.billing_expr": "u(\"video_reference\") == \"yes\" ? tier(\"video\", u(\"seconds\") * 0.254196005492) : tier(\"no-video\", u(\"seconds\") * 0.145254860281)"
+      }
+    },
+    {
+      "model_name": "官方直连sd2.5(满血全参不排队720P)",
+      "values": {
+        "billing_setting.billing_expr": "u(\"video_reference\") == \"yes\" ? tier(\"video\", u(\"seconds\") * 0.340994641513) : tier(\"no-video\", u(\"seconds\") * 0.194854080865)"
+      }
+    },
+    {
+      "model_name": "官转稳定-sd2-1080p(933满血卡脸)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.230282095568)"
+      }
+    },
+    {
+      "model_name": "官转稳定-sd2-480p(933满血卡脸)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.058456224260)"
+      }
+    },
+    {
+      "model_name": "官转稳定-sd2-4k(933满血卡脸4K)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.442850183783)"
+      }
+    },
+    {
+      "model_name": "官转稳定-sd2-720p(933满血卡脸)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.106284044108)"
+      }
+    },
+    {
+      "model_name": "官转稳定-sd2.5-1080p(30-10-10/4-30秒卡真人无限并发速度极快)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.111598246314)"
+      }
+    },
+    {
+      "model_name": "官转稳定-sd2.5-480p(30-10-10/4-30秒卡真人无限并发速度极快)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.097427040433)"
+      }
+    },
+    {
+      "model_name": "官转稳定-sd2.5-720p(30-10-10/4-30秒卡真人无限并发速度极快)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.194854080865)"
+      }
+    },
+    {
+      "model_name": "官转稳定sd2.0(933原生过真人480P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.074398830876)"
+      }
+    },
+    {
+      "model_name": "官转稳定sd2.0(933原生过真人720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.132855055135)"
+      }
+    },
+    {
+      "model_name": "全能sd2.0(不卡脸mini933-12s)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.150569062487)"
+      }
+    },
+    {
+      "model_name": "全能sd2.0(官转专线满血原生过脸-933-720p)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.974270404323)"
+      }
+    },
+    {
+      "model_name": "全能sd2.0(官转专线原生过脸fast-933-720p)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.708560294053)"
+      }
+    },
+    {
+      "model_name": "全能sd2.0(满血内置过脸-900-720p)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.575705238918)"
+      }
+    },
+    {
+      "model_name": "全能sd2.0(满血原生过脸-933-480p)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.566848235243)"
+      }
+    },
+    {
+      "model_name": "全能sd2.0(满血原生过脸-933-720p)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.938842389620)"
+      }
+    },
+    {
+      "model_name": "全能sd2.0(原生过脸mini-930-480p)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.283424117622)"
+      }
+    },
+    {
+      "model_name": "全能sd2.0(原生过脸mini2-930-480p)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.159426066162)"
+      }
+    },
+    {
+      "model_name": "全能sd2.0(mini原生过脸933/720p)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.354280147027)"
+      }
+    },
+    {
+      "model_name": "热门稳定SD2.5-720p(30-10-10不卡脸/4-30秒)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 1.062840441079)"
+      }
+    },
+    {
+      "model_name": "特价/sd-2.5",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.345423143351)"
+      }
+    },
+    {
+      "model_name": "特价稳定sd2.5-720p-ch1(9图30秒小几率卡脸内置彩绘过脸)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.504849209513)"
+      }
+    },
+    {
+      "model_name": "特价稳定sdquan-2-miao(930不排队不卡脸满血)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.074398830876)"
+      }
+    },
+    {
+      "model_name": "推荐稳定sd2.0vip720p(933不卡脸不排队满血)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.074398830876)"
+      }
+    },
+    {
+      "model_name": "优惠sd2.5(30图卡真人30秒/720p)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.389708161729)"
+      }
+    },
+    {
+      "model_name": "优质sd2.0vip4k(9-3-3不排队速度极快不卡脸4K满血)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.743988308756)"
+      }
+    },
+    {
+      "model_name": "专享sd2.0(fast933/4-15秒/720p)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.177140073514)"
+      }
+    },
+    {
+      "model_name": "专享sd2.5(30图10音/4-30秒/720p)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.274567113946)"
+      }
+    },
+    {
+      "model_name": "sd2-福利(8点-20点可用/4-3-1不卡脸不排队)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.079713033081)"
+      }
+    },
+    {
+      "model_name": "sd2-vip720p(900不排队云端彩绘过脸)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.681989283026)"
+      }
+    },
+    {
+      "model_name": "SD2.0-720P(9图不卡脸不排队云端过彩铅)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.389708161729)"
+      }
+    },
+    {
+      "model_name": "SD2.5-1080p(30-10-10不卡脸/4-30秒)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.271024312476)"
+      }
+    },
+    {
+      "model_name": "SD2.5-480p(30-10-10不卡脸4-30秒)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.111598246314)"
+      }
+    },
+    {
+      "model_name": "sd2.5-720p-ch3(30-10-10不卡脸/4-30秒无限并发)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.150569062487)"
+      }
+    },
+    {
+      "model_name": "sd2.5-cf-720p(30图10音不卡脸4-30秒超分模型)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.097427040433)"
+      }
+    },
+    {
+      "model_name": "官转sd2.0(mini903不卡脸不排队720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.076170231611)"
+      }
+    },
+    {
+      "model_name": "006系列/sd2.0mini(933过人脸720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.265710110270)"
+      }
+    },
+    {
+      "model_name": "官转sd2.0(903不卡脸不排队720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.106284044108)"
+      }
+    },
+    {
+      "model_name": "高质量稳定sd2.5/(原生过人脸30图10视频10音/720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 1.381692573403)"
+      }
+    },
+    {
+      "model_name": "高质量sd2.5/(全参30-10-10原生过真人速度快720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.097427040433)"
+      }
+    },
+    {
+      "model_name": "官转sd2.5(30图10音不卡脸720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.150569062487)"
+      }
+    },
+    {
+      "model_name": "006系列/sd2.0(满血933过人脸720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.194854080865)"
+      }
+    },
+    {
+      "model_name": "高质量稳定系列sd2.5/(原生过真人30-10-10/720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.097427040433)"
+      }
+    },
+    {
+      "model_name": "高质量sd2.5/(30图10音原生过真人速度快720P按条)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 1.558832646916)"
+      }
+    },
+    {
+      "model_name": "高质量sd2.5/(30图10音原生过真人速度快720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.063770426465)"
+      }
+    },
+    {
+      "model_name": "高质量sd2.0/(全参933原生过真人速度快720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.681989283026)"
+      }
+    },
+    {
+      "model_name": "官转sd2.5(30图10音不卡脸1080P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.168283069838)"
+      }
+    },
+    {
+      "model_name": "满血sd2.5(30-10-10原生过人脸30秒/720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.991984411674)"
+      }
+    },
+    {
+      "model_name": "007系列/sd2.5(满血30图10音/720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.083255834552)"
+      }
+    },
+    {
+      "model_name": "007系列/sd2.0(原生过真人933/5-15秒/720P按秒)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.044285018379)"
+      }
+    },
+    {
+      "model_name": "007系列/sd2.0(原生过真人933/5-15秒/720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.566848235243)"
+      }
+    },
+    {
+      "model_name": "007系列/sd2.0(fast9图3音/5-15秒/720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.230282095568)"
+      }
+    },
+    {
+      "model_name": "007系列/sd2.0(mini9图3音4-10秒/480P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.141712058811)"
+      }
+    },
+    {
+      "model_name": "007系列/sd2.5(原生过真人/30-10-10/4-15秒/480P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 1.328550551349)"
+      }
+    },
+    {
+      "model_name": "007系列/sd2.5(内置过人脸/30-10-10/4-15秒/480P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 1.328550551349)"
+      }
+    },
+    {
+      "model_name": "007系列/sd2.5(30图10音/4-30秒/720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.354280147027)"
+      }
+    },
+    {
+      "model_name": "全能sd2.5(满血内置过脸-30图-720p)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.611133253621)"
+      }
+    },
+    {
+      "model_name": "全能sd2.5(满血内置过脸30图超分1080P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.619990257296)"
+      }
+    },
+    {
+      "model_name": "全能sd2.5(原生过脸900/720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 1.682830698375)"
+      }
+    },
+    {
+      "model_name": "003系列/sd2.5(卡脸30图10音/10-30秒/720P)",
+      "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.566848235243)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+node_modules/
+.codex/
+*.zip
+*.exe
+.env*
+instance.json
+history.json
