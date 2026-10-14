@@ -20,8 +20,8 @@ test('all capability filter conditions must match one variant, not different var
 async function harness(t,options={}){const mock=mockSite(options),storage=mkdtempSync(join(tmpdir(),'seedance-studio-test-')),studio=await startStudio({fetchImpl:mock.fetchImpl,storage,catalogFixture:catalog});t.after(()=>{studio.server.closeAllConnections();studio.server.close();});const base=studio.getOrigin();
   const call=async(path,{method='GET',body,headers={}}={})=>{const r=await fetch(base+path,{method,headers:{Origin:base,'X-Studio-Token':studio.token,...(body?{'Content-Type':'application/json'}:{}),...headers},...(body?{body:JSON.stringify(body)}:{})});return {status:r.status,body:await r.json()};};
   return {...mock,studio,storage,base,call};}
-test('all 114 model variants and dependent selections validate without invented options',()=>{
-  validateCatalog(catalog);assert.equal(catalog.models.length,114);let combinations=0;
+test('all 115 model variants and dependent selections validate without invented options',()=>{
+  validateCatalog(catalog);assert.equal(catalog.models.length,115);let combinations=0;
   for(const m of catalog.models)for(const v of m.variants)for(const seconds of v.seconds)for(const ratio of v.aspectRatios){const b={...makeBody(m),resolution:v.resolution,seconds,aspect_ratio:ratio};validateBody(b,m);const s=selectionFor(m,{resolution:'unknown',seconds:115,aspect_ratio:'adaptive',mode:'unsupported'});assert(m.variants.some(v=>v.resolution===s.resolution&&v.seconds.includes(s.seconds)&&v.aspectRatios.includes(s.aspect_ratio)));combinations++;}
   assert(combinations>3000);
 });

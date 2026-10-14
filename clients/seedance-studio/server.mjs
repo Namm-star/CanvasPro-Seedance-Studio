@@ -6,7 +6,7 @@ import {fileURLToPath} from 'node:url';
 import {Readable} from 'node:stream';
 import {pipeline} from 'node:stream/promises';
 import {API_ORIGIN,MAX_BODY,ClientError,ensure,validateBody,validateCatalog,estimateCny,safeTaskId} from './lib/contracts.mjs';
-export const VERSION='0.1.3';
+export const VERSION='0.1.4';
 const directory=dirname(fileURLToPath(import.meta.url)),hash=x=>createHash('sha256').update(x).digest('hex');
 const safeError=e=>e instanceof ClientError?e.message:'连接暂时不可用，请检查网络或密钥；没有自动重新提交。';
 const send=(res,status,body)=>{res.writeHead(status,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'});res.end(JSON.stringify(body));};

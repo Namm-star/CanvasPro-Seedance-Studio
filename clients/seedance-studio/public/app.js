@@ -24,19 +24,21 @@ function applySelection(model,selection,approved=false){
 }
 function selectModel(model,feedback=true){const changed=state.model?.model!==model.model;if(applySelection(model,selectionFor(model,state.selection))&&feedback)toast(changed?'已切换型号，兼容素材已保留':'当前型号已选中');}
 function modelPrice(m){return `${money(m.saleCny)} 积分/${m.billingMode==='per_second'?'秒':'次'}`;}
+function modelFamilyLabel(m){return m.family==='other'?(/wan3\.0/i.test(m.model)?'Wan 3.0':'视频合作线路'):`Seedance ${m.family}`;}
+function modelVendorLabel(m){return m.family==='other'?(/wan3\.0/i.test(m.model)?'阿里巴巴':'合作模型'):'火山方舟';}
 function libraryFilters(){return {family:state.family,search:$('search').value.trim(),resolution:$('filter-resolution').value,seconds:$('filter-seconds').value,mode:$('filter-mode').value,billing:$('filter-billing').value};}
 function renderModels(){
   if(!state.catalog)return;const filters=libraryFilters();let models=filterModels(state.catalog.models,filters);
   const sort=$('sort').value;models.sort((a,b)=>sort==='name'?a.model.localeCompare(b.model,'zh-CN'):sort==='request'&&a.billingMode!==b.billingMode?(a.billingMode==='per_request'?-1:1):estimateCny(a,{seconds:a.variants[0].seconds[0]})-estimateCny(b,{seconds:b.variants[0].seconds[0]}));
   $('model-count').textContent=models.length;$('filter-summary').textContent=`找到 ${models.length} / ${state.catalog.models.length} 款 · 所有条件同时满足`;
-  $('model-list').innerHTML=models.length?models.map(m=>`<button type="button" class="model-card ${m.model===state.model?.model?'selected':''}" data-model="${esc(m.model)}" aria-pressed="${m.model===state.model?.model}"><div class="card-top"><span class="family-label">${m.family==='other'?'Seedance 专线':`Seedance ${m.family}`}</span><span class="card-check">${m.model===state.model?.model?'✓':''}</span></div><h3>${esc(m.model)}</h3><div class="card-bottom"><span>${esc([...new Set(m.variants.map(v=>v.resolution))].join(' / '))}</span><span class="card-price">${modelPrice(m)}</span></div></button>`).join(''):'<p class="history-empty">没有同时满足条件的型号，请减少筛选条件。当前创作草稿不会改变。</p>';
+  $('model-list').innerHTML=models.length?models.map(m=>`<button type="button" class="model-card ${m.model===state.model?.model?'selected':''}" data-model="${esc(m.model)}" aria-pressed="${m.model===state.model?.model}"><div class="card-top"><span class="family-label">${esc(modelFamilyLabel(m))}</span><span class="card-check">${m.model===state.model?.model?'✓':''}</span></div><h3>${esc(m.model)}</h3><div class="card-bottom"><span>${esc([...new Set(m.variants.map(v=>v.resolution))].join(' / '))}</span><span class="card-price">${modelPrice(m)}</span></div></button>`).join(''):'<p class="history-empty">没有同时满足条件的型号，请减少筛选条件。当前创作草稿不会改变。</p>';
   $('catalog-status').textContent=state.connected?`${state.catalog.models.length} 款可用 · 价格已同步`:'连接后同步可用型号与价格';
 }
 function renderLibraryFilters(){const models=state.catalog.models;for(const [id,values,label] of [['filter-resolution',[...new Set(models.flatMap(m=>m.variants.map(v=>v.resolution)))],x=>x==='4k'?'4K':x],['filter-seconds',[...new Set(models.flatMap(m=>m.variants.flatMap(v=>v.seconds)))].sort((a,b)=>a-b),x=>`${x}秒`],['filter-mode',Object.keys(MODE_LABELS).filter(mode=>models.some(m=>m.variants.some(v=>v.referenceCombinations.includes(mode)))),x=>MODE_LABELS[x]]]){const current=$(id).value;options(id,['',...values],values.map(String).includes(current)?current:'',x=>x===''?'不限':label(x));}}
 function options(id,values,value,label=x=>x){$(id).replaceChildren(...values.map(v=>{const o=document.createElement('option');o.value=v;o.textContent=label(v);return o;}));$(id).value=value;}
 function currentVariant(){return state.model.variants.find(v=>v.resolution===state.selection.resolution&&v.seconds.includes(state.selection.seconds)&&v.aspectRatios.includes(state.selection.aspect_ratio));}
 function renderParameters(){
-  if(!state.model)return;const m=state.model,s=state.selection,v=currentVariant();$('selected-name').textContent=m.model;
+  if(!state.model)return;const m=state.model,s=state.selection,v=currentVariant();$('selected-name').textContent=m.model;$('selected-vendor').textContent=modelVendorLabel(m);
   options('resolution',[...new Set(m.variants.map(v=>v.resolution))],s.resolution,x=>({'480p':'480p · 标清','720p':'720p · 高清','1080p':'1080p · 全高清','4k':'4K · 超清'}[x]));
   options('seconds',[...new Set(variantsFor(m,s.resolution).flatMap(v=>v.seconds))].sort((a,b)=>a-b),s.seconds,x=>`${x} 秒`);
   $('ratios').innerHTML=v.aspectRatios.map(r=>`<button type="button" class="ratio-option" data-ratio="${r}" aria-pressed="${r===s.aspect_ratio}"><span class="ratio-shape ratio-${r.replace(':','-')}"></span>${r}</button>`).join('');

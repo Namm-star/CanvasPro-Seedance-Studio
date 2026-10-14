@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "application": "canvaspro-seedance-studio",
-  "catalogVersion": "20261010-suanli-update-v1",
-  "publishedAt": "2026-10-10T06:54:49.440Z",
-  "pluginVersion": "0.3.3",
-  "pluginSHA256": "5a9ac1568ef4253c43bae1a2faa4d38199892c6409428d2cbcce7b4aed986045",
+  "catalogVersion": "20261015-suanli-update-v1",
+  "publishedAt": "2026-10-14T18:14:30.642Z",
+  "pluginVersion": "0.3.4",
+  "pluginSHA256": "3549a446c049bbb9868a88430fed3b4d0694fb196df3d2cafb0068a57a1355ed",
   "creditsPerUsd": "6.7743",
   "notice": "特价线路的排队时间与稳定性可能波动；请保留任务号，勿重复提交。",
   "models": [
@@ -227,9 +227,9 @@
       "model": "002系列/sd2.0(933原生不卡脸720P)",
       "family": "2.0",
       "billingMode": "per_request",
-      "saleCny": "3.6",
+      "saleCny": "3.96",
       "videoMultiplier": 1,
-      "priceExpressionSHA256": "1fe522da5911d728f51aa228c7b0542b2574b3c0a512531d4a8b353a3abd357e",
+      "priceExpressionSHA256": "ba49d6d8fc99da652bb9cca6f57ce9d80f2182a803e5ca176dd43b94cf88fd2b",
       "variants": [
         {
           "resolution": "720p",
@@ -1469,9 +1469,9 @@
       "model": "004系列/sd2.0(933/4-15秒支持过人脸720P)",
       "family": "2.0",
       "billingMode": "per_request",
-      "saleCny": "1.2",
+      "saleCny": "1.62",
       "videoMultiplier": 1,
-      "priceExpressionSHA256": "fc8bef670332222a02b4dcb7bbc600bdb36dfc96a6fb7d8b9ecdd20fdaf37f3d",
+      "priceExpressionSHA256": "dd738be34a6e021a97180326d14c913980c29d01e45cd6ce52e59fc82a0885c3",
       "variants": [
         {
           "resolution": "720p",
@@ -1515,9 +1515,9 @@
       "model": "004系列/sd2.0(933/480p最多15秒/720p最多12秒)",
       "family": "2.0",
       "billingMode": "per_request",
-      "saleCny": "1.02",
+      "saleCny": "1.32",
       "videoMultiplier": 1,
-      "priceExpressionSHA256": "539e8373e48e86dee1455573ad2b7509a47c4347898302fc6865ce3a837f84ee",
+      "priceExpressionSHA256": "8eff3ad2aff54ecbc14cdbc4a7ec580fa78e4de4b00888dce2b12243c2bc04eb",
       "variants": [
         {
           "resolution": "480p",
@@ -2159,9 +2159,9 @@
       "model": "官方直连sd2.0(满血全参不排队4K)",
       "family": "2.0",
       "billingMode": "per_second",
-      "saleCny": "6.54",
+      "saleCny": "5.94",
       "videoMultiplier": 1.75,
-      "priceExpressionSHA256": "26e4e7c2e750a84298c75ad6ca204dc008ae600430f9e6a92e2fa8c160041fb4",
+      "priceExpressionSHA256": "c8acbff41c9785e2b0b34bcd8cc5b675731be7e4a424574a296d69067c94cf79",
       "variants": [
         {
           "resolution": "4k",
@@ -3528,9 +3528,9 @@
       "model": "特价稳定sd2.5-720p-ch1(9图30秒小几率卡脸内置彩绘过脸)",
       "family": "2.5",
       "billingMode": "per_request",
-      "saleCny": "3.42",
+      "saleCny": "5.82",
       "videoMultiplier": 1,
-      "priceExpressionSHA256": "f5e20727142229e6dcf60664f8fc470f6273436e15265329fe70052b1b0619d5",
+      "priceExpressionSHA256": "aea813bfb14cfc8712ddfd6627344c5b9b7fc92d79961f2cbc43d210ef6f3838",
       "variants": [
         {
           "resolution": "720p",
@@ -3638,9 +3638,9 @@
       "model": "优惠sd2.5(30图卡真人30秒/720p)",
       "family": "2.5",
       "billingMode": "per_request",
-      "saleCny": "2.64",
+      "saleCny": "14.64",
       "videoMultiplier": 1,
-      "priceExpressionSHA256": "79aa7640e28f9b08d72f7004613df559f6e4a17bedf6fcc807c4c3d73d05aae3",
+      "priceExpressionSHA256": "96a1afdd39085c5e2e1639b15a3704509a3e1549d97993758118299184fbb39e",
       "variants": [
         {
           "resolution": "720p",
@@ -3913,9 +3913,9 @@
       "model": "SD2.0-720P(9图不卡脸不排队云端过彩铅)",
       "family": "2.0",
       "billingMode": "per_request",
-      "saleCny": "2.64",
+      "saleCny": "2.76",
       "videoMultiplier": 1,
-      "priceExpressionSHA256": "79aa7640e28f9b08d72f7004613df559f6e4a17bedf6fcc807c4c3d73d05aae3",
+      "priceExpressionSHA256": "c8c62d94ae4838a5426aab7571c1e78f3a1a58383f3548de7440ad87eca56a61",
       "variants": [
         {
           "resolution": "720p",
@@ -4230,42 +4230,6 @@
       ]
     },
     {
-      "model": "006系列/sd2.0mini(933过人脸720P)",
-      "family": "2.0",
-      "billingMode": "per_request",
-      "saleCny": "1.8",
-      "videoMultiplier": 1,
-      "priceExpressionSHA256": "a487cf57a0e8d8d4ee00ecab6099296f433edb57f73640b417def450bb17c46d",
-      "variants": [
-        {
-          "resolution": "720p",
-          "seconds": [
-            5,
-            10,
-            15
-          ],
-          "aspectRatios": [
-            "16:9",
-            "9:16",
-            "1:1"
-          ],
-          "maxReferences": {
-            "images": 9,
-            "videos": 3,
-            "audios": 3
-          },
-          "referenceCombinations": [
-            "none",
-            "images",
-            "videos",
-            "images+videos",
-            "audios+images",
-            "audios+images+videos"
-          ]
-        }
-      ]
-    },
-    {
       "model": "官转sd2.0(903不卡脸不排队720P)",
       "family": "2.0",
       "billingMode": "per_second",
@@ -4460,42 +4424,6 @@
             "images": 30,
             "videos": 10,
             "audios": 10
-          },
-          "referenceCombinations": [
-            "none",
-            "images",
-            "videos",
-            "images+videos",
-            "audios+images",
-            "audios+images+videos"
-          ]
-        }
-      ]
-    },
-    {
-      "model": "006系列/sd2.0(满血933过人脸720P)",
-      "family": "2.0",
-      "billingMode": "per_request",
-      "saleCny": "1.32",
-      "videoMultiplier": 1,
-      "priceExpressionSHA256": "8eff3ad2aff54ecbc14cdbc4a7ec580fa78e4de4b00888dce2b12243c2bc04eb",
-      "variants": [
-        {
-          "resolution": "720p",
-          "seconds": [
-            5,
-            10,
-            15
-          ],
-          "aspectRatios": [
-            "16:9",
-            "9:16",
-            "1:1"
-          ],
-          "maxReferences": {
-            "images": 9,
-            "videos": 3,
-            "audios": 3
           },
           "referenceCombinations": [
             "none",
@@ -5354,6 +5282,249 @@
           ]
         }
       ]
+    },
+    {
+      "model": "004系列/sd2.0(优质fast/9图3音/5-15秒/720P)",
+      "family": "2.0",
+      "variants": [
+        {
+          "resolution": "720p",
+          "seconds": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 9,
+            "videos": 0,
+            "audios": 3
+          },
+          "generateAudio": false,
+          "referenceCombinations": [
+            "none",
+            "images",
+            "audios+images"
+          ]
+        }
+      ],
+      "billingMode": "per_request",
+      "saleCny": "2.76",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "c8c62d94ae4838a5426aab7571c1e78f3a1a58383f3548de7440ad87eca56a61",
+      "unopenedUnknownReferences": [
+        "videos"
+      ],
+      "referenceEvidence": [
+        {
+          "source": "upstream-docs",
+          "url": "https://suanliai.top/docs",
+          "contentAPI": "https://suanliai.top/api/docs/content",
+          "sha256": "57928ef1a9c5cc127396e3d8e596c7aada5f0c50a4194e9d6ac092ff33c48539",
+          "sections": [
+            "1-4",
+            "8.4",
+            "8 general ratios"
+          ],
+          "date": "2026-10-15"
+        },
+        {
+          "source": "user-provided-workbook",
+          "sha256": "3eb5681762d5de92ad6bdbff2d17460e766067d9a445458c447fc06f3fd52a6f",
+          "row": 48,
+          "model": "004系列/sd2.0(优质fast/9图3音/5-15秒/720P)"
+        },
+        {
+          "source": "user-confirmation",
+          "date": "2026-10-15",
+          "scope": "Open only documented resolution/duration/images/audio modes; unknown video references remain closed, not claimed unsupported"
+        },
+        {
+          "source": "user-confirmed-common-Seedance-ratios",
+          "date": "2026-10-01",
+          "ratios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "004系列/sd2.5(优质/30图10音/5-15秒/480P)",
+      "family": "2.5",
+      "variants": [
+        {
+          "resolution": "480p",
+          "seconds": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ],
+          "maxReferences": {
+            "images": 30,
+            "videos": 0,
+            "audios": 10
+          },
+          "generateAudio": false,
+          "referenceCombinations": [
+            "none",
+            "images",
+            "audios+images"
+          ]
+        }
+      ],
+      "billingMode": "per_request",
+      "saleCny": "10.62",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "dd7f57f5c316b03662a67a2f6eb1b4a1a1c04d67fa87568567dbc1f822875e48",
+      "unopenedUnknownReferences": [
+        "videos"
+      ],
+      "referenceEvidence": [
+        {
+          "source": "upstream-docs",
+          "url": "https://suanliai.top/docs",
+          "contentAPI": "https://suanliai.top/api/docs/content",
+          "sha256": "57928ef1a9c5cc127396e3d8e596c7aada5f0c50a4194e9d6ac092ff33c48539",
+          "sections": [
+            "1-4",
+            "8.4",
+            "8 general ratios"
+          ],
+          "date": "2026-10-15"
+        },
+        {
+          "source": "user-provided-workbook",
+          "sha256": "3eb5681762d5de92ad6bdbff2d17460e766067d9a445458c447fc06f3fd52a6f",
+          "row": 49,
+          "model": "004系列/sd2.5(优质/30图10音/5-15秒/480P)"
+        },
+        {
+          "source": "user-confirmation",
+          "date": "2026-10-15",
+          "scope": "Open only documented resolution/duration/images/audio modes; unknown video references remain closed, not claimed unsupported"
+        },
+        {
+          "source": "user-confirmed-common-Seedance-ratios",
+          "date": "2026-10-01",
+          "ratios": [
+            "16:9",
+            "9:16",
+            "1:1"
+          ]
+        }
+      ]
+    },
+    {
+      "model": "004系列/wan3.0-vedio(优质10图5音/5-30秒/480P)",
+      "family": "other",
+      "variants": [
+        {
+          "resolution": "480p",
+          "seconds": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "aspectRatios": [
+            "16:9",
+            "9:16"
+          ],
+          "maxReferences": {
+            "images": 10,
+            "videos": 0,
+            "audios": 5
+          },
+          "generateAudio": false,
+          "referenceCombinations": [
+            "none",
+            "images",
+            "audios+images"
+          ]
+        }
+      ],
+      "billingMode": "per_request",
+      "saleCny": "3.84",
+      "videoMultiplier": 1,
+      "priceExpressionSHA256": "dcff5d2801c185a438f3607184636152e3e94284a931f41c75adf1f9687ac104",
+      "unopenedUnknownReferences": [
+        "videos"
+      ],
+      "referenceEvidence": [
+        {
+          "source": "upstream-docs",
+          "url": "https://suanliai.top/docs",
+          "contentAPI": "https://suanliai.top/api/docs/content",
+          "sha256": "57928ef1a9c5cc127396e3d8e596c7aada5f0c50a4194e9d6ac092ff33c48539",
+          "sections": [
+            "1-4",
+            "8.4",
+            "8 general ratios"
+          ],
+          "date": "2026-10-15"
+        },
+        {
+          "source": "user-provided-workbook",
+          "sha256": "3eb5681762d5de92ad6bdbff2d17460e766067d9a445458c447fc06f3fd52a6f",
+          "row": 50,
+          "model": "004系列/wan3.0-vedio(优质10图5音/5-30秒/480P)"
+        },
+        {
+          "source": "user-confirmation",
+          "date": "2026-10-15",
+          "scope": "Open only documented resolution/duration/images/audio modes; unknown video references remain closed, not claimed unsupported"
+        }
+      ]
     }
-  ]
+  ],
+  "publicReady": true
 }

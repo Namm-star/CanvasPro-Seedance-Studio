@@ -1,6 +1,4 @@
 {
-  "source": "https://api.canvasproai.com/api/pricing",
-  "catalogVersion": "20261010-suanli-update-v1",
   "pricing": [
     {
       "model_name": "002系列/sd2.0(933满血不卡脸1080P)",
@@ -35,7 +33,8 @@
     {
       "model_name": "002系列/sd2.0(933原生不卡脸720P)",
       "values": {
-        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.531420220540)"
+        "billing_setting.billing_mode": "tiered_expr",
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.584562242594)"
       }
     },
     {
@@ -203,13 +202,15 @@
     {
       "model_name": "004系列/sd2.0(933/4-15秒支持过人脸720P)",
       "values": {
-        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.177140073514)"
+        "billing_setting.billing_mode": "tiered_expr",
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.239139099243)"
       }
     },
     {
       "model_name": "004系列/sd2.0(933/480p最多15秒/720p最多12秒)",
       "values": {
-        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.150569062487)"
+        "billing_setting.billing_mode": "tiered_expr",
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.194854080865)"
       }
     },
     {
@@ -281,7 +282,8 @@
     {
       "model_name": "官方直连sd2.0(满血全参不排队4K)",
       "values": {
-        "billing_setting.billing_expr": "u(\"video_reference\") == \"yes\" ? tier(\"video\", u(\"seconds\") * 1.689473451132) : tier(\"no-video\", u(\"seconds\") * 0.965413400647)"
+        "billing_setting.billing_mode": "tiered_expr",
+        "billing_setting.billing_expr": "u(\"video_reference\") == \"yes\" ? tier(\"video\", u(\"seconds\") * 1.534475886808) : tier(\"no-video\", u(\"seconds\") * 0.876843363890)"
       }
     },
     {
@@ -455,7 +457,8 @@
     {
       "model_name": "特价稳定sd2.5-720p-ch1(9图30秒小几率卡脸内置彩绘过脸)",
       "values": {
-        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.504849209513)"
+        "billing_setting.billing_mode": "tiered_expr",
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.859129356539)"
       }
     },
     {
@@ -473,7 +476,8 @@
     {
       "model_name": "优惠sd2.5(30图卡真人30秒/720p)",
       "values": {
-        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.389708161729)"
+        "billing_setting.billing_mode": "tiered_expr",
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 2.161108896861)"
       }
     },
     {
@@ -509,7 +513,8 @@
     {
       "model_name": "SD2.0-720P(9图不卡脸不排队云端过彩铅)",
       "values": {
-        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.389708161729)"
+        "billing_setting.billing_mode": "tiered_expr",
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.407422169081)"
       }
     },
     {
@@ -543,12 +548,6 @@
       }
     },
     {
-      "model_name": "006系列/sd2.0mini(933过人脸720P)",
-      "values": {
-        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.265710110270)"
-      }
-    },
-    {
       "model_name": "官转sd2.0(903不卡脸不排队720P)",
       "values": {
         "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.106284044108)"
@@ -570,12 +569,6 @@
       "model_name": "官转sd2.5(30图10音不卡脸720P)",
       "values": {
         "billing_setting.billing_expr": "tier(\"second\", u(\"seconds\") * 0.150569062487)"
-      }
-    },
-    {
-      "model_name": "006系列/sd2.0(满血933过人脸720P)",
-      "values": {
-        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.194854080865)"
       }
     },
     {
@@ -683,6 +676,27 @@
     {
       "model_name": "003系列/sd2.5(卡脸30图10音/10-30秒/720P)",
       "values": {
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.566848235243)"
+      }
+    },
+    {
+      "model_name": "004系列/sd2.0(优质fast/9图3音/5-15秒/720P)",
+      "values": {
+        "billing_setting.billing_mode": "tiered_expr",
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.407422169081)"
+      }
+    },
+    {
+      "model_name": "004系列/sd2.5(优质/30图10音/5-15秒/480P)",
+      "values": {
+        "billing_setting.billing_mode": "tiered_expr",
+        "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 1.567689650592)"
+      }
+    },
+    {
+      "model_name": "004系列/wan3.0-vedio(优质10图5音/5-30秒/480P)",
+      "values": {
+        "billing_setting.billing_mode": "tiered_expr",
         "billing_setting.billing_expr": "tier(\"request\", u(\"requests\") * 0.566848235243)"
       }
     }
